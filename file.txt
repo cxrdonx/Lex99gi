@@ -1,1 +1,8 @@
-youre running
+ boolean resp = false;
+int contador = 0;
+  do{
+    contador +=1
+}while( resp = !resp);
+        
+
+ 

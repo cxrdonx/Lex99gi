@@ -9,5 +9,7 @@ public enum Tokens {
     Division,
     Constante,
     Numero,
-    ERROR
+    ERROR,
+    Operador,
+    Variable
 }
